@@ -8,4 +8,5 @@
 
 ## Monotony
 
-1.
+1. What kind of monotonous tasks or activities do you have to do? By monotonous I mean repetitive boring tasks.
+2. What do you do to make them more fun?
