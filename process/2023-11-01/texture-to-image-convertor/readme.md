@@ -18,7 +18,7 @@ The tongue has sensors to detect and analyse any texture. After placing your tex
 
 ![texture-to-image_1](/process/2023-11-01/texture-to-image-convertor/IMG_5025.JPG)
 
-Once a drawing button is pressed, the assistant creats an abstract illustration inspired by the texture.
+Once a drawing button is pressed, the assistant creates an abstract illustration inspired by your texture.
 
 ![texture-to-image_1](/process/2023-11-01/texture-to-image-convertor/IMG_5026.JPG)
 
