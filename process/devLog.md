@@ -2,6 +2,16 @@
 
 This is a file with my day-to-day progress.
 
+## 2023-11-12
+
+Pitch 
+
+## 2023-11-11
+
+Made a paper prototype of Kick-starter - an assistant that allows you to draw the outlines of small objects and thus start a drawing.
+
+![kick-starter-1](/process/2023-11-11/kick-starter/IMG_5220.JPG)
+
 ## 2023-11-07
 
 Prototype idea: the assistant detects if you put something on the paper, it then immediately rushes to the object and starts drawing around it. Drawing with negative space.
