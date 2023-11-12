@@ -6,7 +6,7 @@ This is a file with my day-to-day progress.
 
 Pitch (what, who, where, and how)
 
-Kick-starter is an assistant that helps people start drawing using the outlines of small objects around them. It is designed for people looking to occupy their free time. These people are open to drawing but do not know where or how to start. Kick-starter can be used at home, in the office or even at school. Simply place it on a sheet of paper and choose a small object to use as the basis for your future drawing. After analysing your object, Kick-starter draws its outline, which you can use to start your drawing.
+Kick-starter is an assistant that helps people start drawing using the outlines of small objects around them. It is designed for people looking to occupy their free time. These people are open to drawing but do not know where or how to start. Kick-starter can be used at home, in the office or even at school. Simply place it on a sheet of paper and choose a small object to use as the basis for your future drawing. After analysing your object, Kick-starter draws its outline, which you can then use to kick-start your drawing.
 
 
 
