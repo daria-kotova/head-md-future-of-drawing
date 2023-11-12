@@ -8,7 +8,7 @@ Pitch
 
 ## 2023-11-11
 
-Made a paper prototype of Kick-starter - an assistant that allows you to draw the outlines of small objects and thus start a drawing.
+Made a paper prototype of [Kick-starter](/process/2023-11-11/kick-starter/) - an assistant that allows you to draw the outlines of small objects and thus start a drawing.
 
 ![kick-starter-1](/process/2023-11-11/kick-starter/IMG_5220.JPG)
 
