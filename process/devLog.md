@@ -2,9 +2,11 @@
 
 This is a file with my day-to-day progress.
 
-## 2023-11-05
+## 2023-11-07
 
 Prototype idea: the assistant detects if you put something on the paper, it then immediately rushes to the object and starts drawing around it. Drawing with negative space.
+
+![negative_space_1](/process/2023-11-07/IMG_5207.jpg) ![negative_space_2](/process/2023-11-07/IMG_5208.jpg) 
 
 ## 2023-11-03
 
