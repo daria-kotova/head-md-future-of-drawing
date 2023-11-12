@@ -4,11 +4,15 @@ This is a file with my day-to-day progress.
 
 ## 2023-11-12
 
-Pitch 
+Pitch (what, who, where, and how)
+
+Kick-starter is an assistant that helps people start drawing using the outlines of small objects around them. It is designed for people looking to occupy their free time. These people are open to drawing but do not know where or how to start. Kick-starter can be used at home, in the office or even at school. Simply place it on a sheet of paper and choose a small object to use as the basis for your future drawing. After analysing your object, Kick-starter draws its outline, which you can use to start your drawing.
+
+
 
 ## 2023-11-11
 
-Made a paper prototype of [Kick-starter](/process/2023-11-11/kick-starter/) - an assistant that allows you to draw the outlines of small objects and thus start a drawing.
+Made a paper prototype of [Kick-starter](/process/2023-11-11/kick-starter) - an assistant that allows you to draw the outlines of small objects and thus start a drawing.
 
 ![kick-starter-1](/process/2023-11-11/kick-starter/IMG_5220.JPG)
 
