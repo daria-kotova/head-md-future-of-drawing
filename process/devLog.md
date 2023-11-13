@@ -19,6 +19,9 @@ Kick-starter is an assistant that helps people start drawing using the outlines 
 2. A lot of people do not mind drawing but they do not know what to draw and how to start.
 3. Some people would like to draw in a collaboration as it can be more fun.
 
+**Next steps**
+
+
 
 
 
