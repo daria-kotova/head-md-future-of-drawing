@@ -18,6 +18,20 @@ No idea how to start the electronics and how to improve my prototype but I will 
 
 Finished slides for mid-presentation. Changed the name of the project to Snailed-it. Snailed-it because you nailed it :) but also because of the snail ![snail](/process/2023-11-15/camphoto_1804928587%202.JPG)
 
+Also did some [user tests](/process/2023-11-15/user-tests/) for my last prototype, generated [Midjourney](/process/2023-11-15/midjourney/) illustrations to show the possible weirdness of AI's interpretations, as well as created various projection [outputs](/process/2023-11-15/output/).
+
+## 2023-11-14
+
+Today I made a new paper prototype based on Laure's feedback. It kinda looks like a phone-scuba-diving thiny. ![prototype](/process/2023-11-15/paper-prototypes-for-pres/IMG_5265.JPG)
+
+## 2023-11-13
+
+Cried a bit in the toilet. Am I even a designer? What a beginning to the week.
+
+[Tested](/process/2023-11-13/user-tests/) Kick-starter. Aparently, having an assistant that you need to wake up is not obvious and very confusing. Abandonned this idea. Also, need to make it OBVIOUS that you need to put an object somewhere.
+
+Had feedback from Laure, really helped and lifted up my spirit. Why does the assistant have to draw the outline for you if it can just project it. Genius. Can also have several options, like outline, decompose, magic (to add more stuff) and random (to randomize the output and some spice). Feeling much better,
+
 ## 2023-11-12
 
 **Pitch (what, who, where, and how), first version.**
