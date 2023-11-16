@@ -2,13 +2,25 @@
 
 This is a file with my day-to-day progress.
 
+## 2023-11-16
+
+Had mid [presentation](/presentations/HEAD-MD1_Caran-d-Ache_Daria-Kotova_Snailed-it.pdf) with Caran d'Ache.
+
+Feeling awesome afterwards. On Monday morning I felt very frustrated and anxious, because I did not know if my idea made sense and was doable. But after several feedbacks on Monday, Wednesday and today, I feel quite reassured and somewhat relieved. I am also happy to finally understand what exactly I want to do. My project now has a mystery aspect, which I wanted to introduce but did not know how.
+
+I sensed some excitement from Laure whenever she started asking if you can put my object on the table or on the floor or wherever. Do not know if Sophie liked it, she asked some clarifying question about the learning aspect, but I guess that is the topic that interests her in general.
+
+Insights from this week: I need to plan wisely and the most important one is that I should ask for some feedback before judging myself (dah).
+
+No idea how to start the electronics and how to improve my prototype but I will just trust the process and go with the flow. Peace.
+
+## 2023-11-15
+
+Finished slides for mid-presentation. Changed the name of the project to Snailed-it. Snailed-it because you nailed it :) but also because of the snail ![snail](/process/2023-11-15/camphoto_1804928587%202.JPG)
+
 ## 2023-11-12
 
-
-
-## 2023-11-12
-
-**Pitch (what, who, where, and how)**
+**Pitch (what, who, where, and how), first version.**
 
 Kick-starter is an assistant that helps people start drawing using the outlines of small objects around them. It is designed for people looking to occupy their free time. These people are open to drawing but do not know where or how to start. Kick-starter can be used at home, in the office or even at school. Simply place it on a sheet of paper and choose a small object to use as the basis for your future drawing. After analysing your object, Kick-starter draws its outline, which you can then use to kick-start your drawing.
 
