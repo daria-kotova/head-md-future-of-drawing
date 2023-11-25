@@ -2,6 +2,10 @@
 
 This is a file with my day-to-day progress.
 
+## 2023-11-25
+
+Added electronics scheme ![scheme](/electronics/scheme.JPG)
+
 ## 2023-11-16
 
 Had mid [presentation](/presentations/HEAD-MD1_Caran-d-Ache_Daria-Kotova_Snailed-it.pdf) with Caran d'Ache.
