@@ -1,6 +1,10 @@
-# DevLog
+This is my project with Caran d'Ache on the future of drawing, where we have to make a playful AI creative assistant. 
 
-This is a file with my day-to-day progress on the project with Caran d'Ache on the future of drawing.
+Current name of my assistant is Snailed-it.
+
+Below is the devlog with my day-to-day progress. Enjoy.
+
+# DevLog
 
 ## 2023-11-25
 
