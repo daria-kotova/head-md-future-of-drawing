@@ -1,6 +1,6 @@
 # DevLog
 
-This is a file with my day-to-day progress.
+This is a file with my day-to-day progress on the project with Caran d'Ache on the future of drawing.
 
 ## 2023-11-25
 
