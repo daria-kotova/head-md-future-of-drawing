@@ -6,6 +6,28 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 # DevLog
 
+## 2023-12-04
+
+Talked to Pierre and Laure. Aparently 
+
+## 2023-12-01
+
+Tried RGB LED light ![RGB_LED_1](/process/2023-12-01/Screenshot%202023-12-05%20at%2010.07.20.png) ![RGB_LED_2](/process/2023-12-01/Screenshot%202023-12-05%20at%2010.07.34.png) ![RGB_LED_3](/process/2023-12-01/Screenshot%202023-12-05%20at%2010.07.48.png)
+
+## 2023-11-30
+
+Started learning Fusion. It is actually not that difficult, much easier than Blender and Cinema 4D. Made a pencil sharpener model ![sharpener_1](/process/2023-11-30/pencil_sharpener%20v4.png) ![sharpener_2](/process/2023-11-30/pencil_sharpener%20v4_2.png)
+
+## 2023-11-29
+
+More electronics. Learnt how to use PIEZO ![piezo](/process/2023-11-29/Screenshot%202023-12-05%20at%2010.08.48.png)
+
+Experimented with a light sensor ![light_sensor_1](/process/2023-11-29/Screenshot%202023-12-05%20at%2010.08.17.png) ![light_sensor_2](/process/2023-11-29/Screenshot%202023-12-05%20at%2010.08.28.png) and with a servo motor ![servo](/process/2023-11-29/Screenshot%202023-12-05%20at%2010.08.02.png)
+
+## 2023-11-27
+
+Started learning electronics and how to use Arduino. Made SOS in Morse code with an [LED](/process/2023-11-27/IMG_5582.MOV) .
+
 ## 2023-11-25
 
 Added electronics scheme ![scheme](/electronics/scheme.JPG)
