@@ -12,7 +12,7 @@ Talked to Pierre and Laure. For the simplicity, it makes sense to use an NFC rea
 
 Tried to make a quick 3D sketch in Fusion ![3d_sketch](/process/2023-12-04/Screenshot%202023-12-05%20at%2010.29.41.png)
 
-Discussed possible shapes with Laure. Since, I am going to use NFC tags, I do not really need to make a box for putting objects. It can be just a flat surface. ![shape](/process/2023-12-04/231204_daria.jpg) In any case, the shape will be largely determined by my electronic components. 
+Discussed possible shapes with Laure. Since, I am going to use NFC tags, I do not really need to make a box for putting objects. It can be just a flat surface. ![shape](/process/2023-12-04/231204_daria.jpg) In any case, the shape will be largely determined by my electronic components. Need to think about materials.
 
 ## 2023-12-01
 
