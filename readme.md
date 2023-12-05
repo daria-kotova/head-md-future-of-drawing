@@ -8,7 +8,11 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 ## 2023-12-04
 
-Talked to Pierre and Laure. Aparently 
+Talked to Pierre and Laure. For the simplicity, it makes sense to use an NFC reader instead of a camera for object detection, as well as predetermined objects with NFC tags. Otherwise, it is going to take ages to teach the AI to recognize random objects.
+
+Tried to make a quick 3D sketch in Fusion ![3d_sketch](/process/2023-12-04/Screenshot%202023-12-05%20at%2010.29.41.png)
+
+Discussed possible shapes with Laure. Since, I am going to use NFC tags, I do not really need to make a box for putting objects. It can be just a flat surface. ![shape](/process/2023-12-04/231204_daria.jpg) In any case, the shape will be largely determined by my electronic components. 
 
 ## 2023-12-01
 
@@ -24,9 +28,13 @@ More electronics. Learnt how to use PIEZO ![piezo](/process/2023-11-29/Screensho
 
 Experimented with a light sensor ![light_sensor_1](/process/2023-11-29/Screenshot%202023-12-05%20at%2010.08.17.png) ![light_sensor_2](/process/2023-11-29/Screenshot%202023-12-05%20at%2010.08.28.png) and with a servo motor ![servo](/process/2023-11-29/Screenshot%202023-12-05%20at%2010.08.02.png)
 
+## 2023-11-28
+
+Now I know how to use a potentiometer and buttons. For buttons there is an internal resistor, that should be turned on via the code. This simplifies things. 
+
 ## 2023-11-27
 
-Started learning electronics and how to use Arduino. Made SOS in Morse code with an [LED](/process/2023-11-27/IMG_5582.MOV) .
+Started learning electronics and how to use Arduino. Made SOS in Morse code with an LED.
 
 ## 2023-11-25
 
