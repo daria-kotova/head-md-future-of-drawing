@@ -10,7 +10,7 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 Talked to Pierre and Laure. For the simplicity, it makes sense to use an NFC reader instead of a camera for object detection, as well as predetermined objects with NFC tags. Otherwise, it is going to take ages to teach the AI to recognize random objects.
 
-Tried to make a quick 3D sketch in Fusion ![3d_sketch](/process/2023-12-04/Screenshot%202023-12-05%20at%2010.29.41.png)
+Tried to make a quick 3D sketch in Fusion ![3d_sketch](/process/2023-12-04/Screenshot%202023-12-05%20at%2010.29.41.png) Kinda looks like a tomb stone..
 
 Discussed possible shapes with Laure. Since, I am going to use NFC tags, I do not really need to make a box for putting objects. It can be just a flat surface. ![shape](/process/2023-12-04/231204_daria.jpg) In any case, the shape will be largely determined by my electronic components. Need to think about materials.
 
