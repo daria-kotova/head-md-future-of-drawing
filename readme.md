@@ -40,7 +40,7 @@ Chose my electronic components:
 - 3 soft [buttons](https://www.adafruit.com/product/3101)
 - potentiometer with a metal [knob](https://www.adafruit.com/product/2058)
 - projector (ideally Pico projector because it is small and light, but for now I have [this](https://www.amazon.com/Projector-Magcubic-Keystone-Correction-Portable/dp/B0C84JLZ9K?th=1) )
-- camera (in a perfect world, TBD)
+- [camera](https://www.adafruit.com/product/5657) (in a perfect world)
 
 ## 2023-12-04
 
