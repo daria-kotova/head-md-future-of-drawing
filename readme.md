@@ -6,6 +6,36 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 # DevLog
 
+## 2023-12-07
+
+Need to think about the way I can cover power cables, because there will be one from the projector and one from the Raspberry Pi. Probably can put them in some textile with velcro.
+
+Added necessary [steps](/process/2023-12-07/steps.md) for completing the project.
+
+Talked to the guy from the Metal Pool. They have all sorts of steel tubes and plates, so basically it is up to me to decide on the size and thickness. Will need to finish my 3D model BEFORE THE HOLIDAYS, so that he can order necessary materials if needed. And straight after the holidays we will start production (Jan 8). The gravure of the text for my parameters can be made at the Prototype Pool.
+
+Need to think if I actually want to make a wooden prototype first. Probably only for some details. 
+
+## 2023-12-06
+
+Made first detailed sketch of my object. ![sketch](/process/2023-12-06/IMG_5729.JPG)
+
+Since the projector is quite heavy (820g), the leg and the base should be metal, so that the object does not fall. The projector will be attached to the leg with three disks and a bolt. ![disks](/process/2023-12-06/IMG_5730.JPG) The shell of the head will be 3D printed, since it will allow to have a light top, probably with two parts. One part with holes for ventilation, because the projector heats up easily. Unfortunately, the object will have to be taller than I wanted (around 700mm), so that the projection is not too blury. ![construction](/process/2023-12-06/IMG_5726.JPG)
+
+Got a Raspberry Pi, SD card and cables from Pablo.
+
+## 2023-12-05
+
+Chose my electronic components:
+
+- [RFID](https://www.distrelec.ch/fr/module-de-lecture-et-ecriture-rfid-compatible-arduino-13-56mhz-velleman-wpi405/p/30260977?trackQuery=rfid&pos=4&origPos=4&origPageSize=50&track=true&sid=e090ff711361566ede42bd989306aabde878056b&itemList=search) reader
+- [NFC](https://www.adafruit.com/product/360) tags
+- [Raspberry](https://www.adafruit.com/product/4292) Pi 4 Model B - 2 GB RAM 
+- 3 soft [buttons](https://www.adafruit.com/product/3101)
+- potentiometer with a metal [knob](https://www.adafruit.com/product/2058)
+- projector (ideally Pico projector because it is small and light, but for now I have [this](https://www.amazon.com/Projector-Magcubic-Keystone-Correction-Portable/dp/B0C84JLZ9K?th=1) )
+- camera (in a perfect world, TBD)
+
 ## 2023-12-04
 
 Talked to Pierre and Laure. For the simplicity, it makes sense to use an NFC reader instead of a camera for object detection, as well as predetermined objects with NFC tags. Otherwise, it is going to take ages to teach the AI to recognize random objects.
