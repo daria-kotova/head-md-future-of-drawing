@@ -26,7 +26,7 @@ Need to think if I actually want to make a wooden prototype first. Probably only
 
 Made first detailed sketch of my object. ![sketch](/process/2023-12-06/IMG_5729.JPG)
 
-Since the projector is quite heavy (820g), the leg and the base should be metal, so that the object does not fall. The projector will be attached to the leg with three disks and a bolt. ![disks](/process/2023-12-06/IMG_5730.JPG) The shell of the head will be 3D printed, since it will allow to have a light top, probably with two parts. One part with holes for ventilation, because the projector heats up easily. Unfortunately, the object will have to be taller than I wanted (around 700mm), so that the projection is not too blury. ![construction](/process/2023-12-06/IMG_5726.JPG)
+Since the projector is quite heavy (820g), the leg and the base should be metal, so that the object does not fall. The projector will be attached to the leg with three disks and a bolt. ![disks](/process/2023-12-06/IMG_5730.JPG) The shell of the head will be 3D printed, since it will allow to have a light top, probably with two parts. One part with holes for ventilation, because the projector heats up easily. Unfortunately, the object will have to be taller than I wanted (around 700mm), so that the projection is not too blurry. ![construction](/process/2023-12-06/IMG_5726.JPG)
 
 Got a Raspberry Pi, SD card and cables from Pablo.
 
