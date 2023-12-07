@@ -14,6 +14,12 @@ Added necessary [steps](/process/2023-12-07/steps.md) for completing the project
 
 Talked to the guy from the Metal Pool. They have all sorts of steel tubes and plates, so basically it is up to me to decide on the size and thickness. Will need to finish my 3D model BEFORE THE HOLIDAYS, so that he can order necessary materials if needed. And straight after the holidays we will start production (Jan 8). The gravure of the text for my parameters can be made at the Prototype Pool.
 
+His suggestion on how to do the base and fix the leg to it:
+![suggestion_1](/process/2023-12-07/IMG_5736.JPG)
+![suggestion_2](/process/2023-12-07/IMG_5737.JPG)
+There will be a short large tube soldered to the base and the main tube will go inside and will be fixed with screws/bolts. The base is hollow, so that I can fit my electronics in it.
+
+
 Need to think if I actually want to make a wooden prototype first. Probably only for some details. 
 
 ## 2023-12-06
