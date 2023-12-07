@@ -4,7 +4,7 @@
 - 3D Modelling (Fusion 360)
     - Base with space for electronics
     - Leg + fixations for the projector
-    - Head
+    - Shell (head)
    
 ## Materials
 
@@ -37,9 +37,16 @@
         - projector (BeamBuddy for now, Pico projector in a perfect world)
         
 - Wiring
+    - projector <-> Pi (HDMI)
+    - Pi <-> buttons
+    - Pi <-> potentiometer
+    - Pi <-> RFID reader
+
+
 - Power
     - Projector power cable
     - Raspberry Pi power cable
+
 - API (in a perfect world)
 
 ## Others
