@@ -6,6 +6,24 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 # DevLog
 
+## 2023-12-14
+
+Test day results
+
+![test-day](/process/2023-12-14/IMG_5798.JPG)
+
+1. It is still not very obvious that you need to take an object and put it on my device. In most cases I had to tell people that the snail was apart of the experience. In the second session, I tried putting it in a box right next to the device. Still unclear. Probably, having a group of objects will make things clearer. In addition, I need to try putting objects on some kind of a platform made of the same material as the square for positioning objects on the device.
+
+2. The device is perceived as a lamp. Still need to think if that is the impression I want.
+
+3. Blank buttons were not clear at all. Only one tester was curious enough to explore them without any explanation. Buttons with icons made more sense. Even though the icons were not always very understandable, they at least sparked some interest. Buttons with text are probably too in the face, but at the same time still not super clear. Will probably keep buttons with icons, but will reconsider the icons.
+
+4. An interesting insight is that the first three buttons (outline, shapes, shading) are associated together. Some people saw them as different layers of one image. Meanwhile, the random button is a very fun option, but is a bit apart. So, the idea now is to group the three first buttons together and distinguish "random" from them (by color or shape and distance).
+
+5. When clicking on the random button again, people expect a new random image.
+
+TBC
+
 ## 2023-12-07
 
 Need to think about the way I can cover power cables, because there will be one from the projector and one from the Raspberry Pi. Probably can put them in some textile with velcro.
