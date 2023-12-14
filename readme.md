@@ -22,6 +22,8 @@ Test day results
 
 5. When clicking on the random button again, people expect a new random image.
 
+6. What if you put two objects?
+
 TBC
 
 ## 2023-12-07
