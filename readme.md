@@ -53,7 +53,7 @@ Current state of my 3D model. ![3D](/process/2023-12-12/Screenshot%202023-12-14%
 
 ## 2023-12-11
 
-Learnt how to use Fritzing.
+Learnt how to use Fritzing. ![scheme](/process/2023-12-11/Screenshot%202023-12-11%20at%2011.50.50.png)
 
 Turns out the reader did not work because I needed to secure connection by soldering a part to it. Pierre soldered it for me. To be tested again.
 
