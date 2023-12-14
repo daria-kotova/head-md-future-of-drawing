@@ -26,6 +26,10 @@ Test day results
 
 TBC
 
+For the head part can use plastic instead of 3D printing.
+
+Agreed with the guy from atelier de bois that I would come on Monday morning to verify my mesurements with wooden planks.
+
 ## 2023-12-07
 
 Need to think about the way I can cover power cables, because there will be one from the projector and one from the Raspberry Pi. Probably can put them in some textile with velcro.
