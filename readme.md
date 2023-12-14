@@ -30,6 +30,37 @@ For the head part can use plastic instead of 3D printing.
 
 Agreed with the guy from atelier de bois that I would come on Monday morning to verify my mesurements with wooden planks.
 
+## 2023-12-13
+
+Was preparing for test day.
+
+Objectives:
+- Test if people understand that this is a device that can recognize an object and then project it
+- Test if people can understand each parameter without icons or text on the buttons
+- Test if text descriptions are clear enough.
+
+Made a new paper prototype that is close to the original size. Also prepared three sets of buttons ![buttons](/process/2023-12-13/IMG_5796.JPG)
+
+After talking to Lauren added a new option of getting a projection of shading. Also, decided to get rid of the potentiometer and replace it with just a "random" button for unexpected interpretations of the object by AI. Played more with Midjourney. This is a racing snail ![racing-snail](/process/2023-12-13/dorotheusss_a_simplified_black_and_white_outline_of_a_snail_rac_dc59c538-2467-408b-8d91-724294f22c94.webp)
+
+## 2023-12-12
+
+Tested RFID reader again. ![RFID](/process/2023-12-12/IMG_5783.JPG) The maximum distance between it and an NFC tag is around 3cm, 1cm from each edge of the reader.
+
+Did a soldering exercise. It was very difficult because my hand was shaking af, but at least it worked from the first time. ![soldering-1](/process/2023-12-12/IMG_5784.jpg) ![soldering-1](/process/2023-12-12/03c1d357-d76d-4465-8dca-043228cce181.JPG) ![soldering-1](/process/2023-12-12/7e2620ae-bac8-4cf7-9381-65aff336dbb4.JPG)
+
+Current state of my 3D model. ![3D](/process/2023-12-12/Screenshot%202023-12-14%20at%2017.10.40.png) Struggling with adding the projector.
+
+## 2023-12-11
+
+Learnt how to use Fritzing.
+
+Turns out the reader did not work because I needed to secure connection by soldering a part to it. Pierre soldered it for me. To be tested again.
+
+## 2023-12-09
+
+Tried testing RFID reader. It kind of works if I connect all the cables directly, but this configuration is very unstable. Otherwise, I get an error.
+
 ## 2023-12-07
 
 Need to think about the way I can cover power cables, because there will be one from the projector and one from the Raspberry Pi. Probably can put them in some textile with velcro.
