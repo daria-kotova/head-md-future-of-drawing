@@ -6,25 +6,33 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 # DevLog
 
+## 2023-12-18
+
+Went to atelier de bois in the morning. My giant baby ![baby](/process/2023-12-18/IMG_5847.JPG)
+
+## 2023-12-17
+
+Prepared mesurements to check at atelier de bois tomorrow. Still struggling with modelling the projector :/ ![3d](/process/2023-12-17/Image%2017-12-2023%20at%2022.28.JPG)
+
 ## 2023-12-14
 
 Test day results
 
 ![test-day](/process/2023-12-14/IMG_5798.JPG)
 
-1. It is still not very obvious that you need to take an object and put it on my device. In most cases I had to tell people that the snail was apart of the experience. In the second session, I tried putting it in a box right next to the device. Still unclear. Probably, having a group of objects will make things clearer. In addition, I need to try putting objects on some kind of a platform made of the same material as the square for positioning objects on the device.
+1. It is still not very obvious that you need to take an object and put it on my device. In most cases I had to tell people that the snail was a part of the experience. In the second session, I tried putting it in a box right next to the device. Still unclear. Probably, having a group of objects will make things clearer. In addition, I need to try putting objects on some kind of a platform made of the same material as the square for positioning objects on the device.
 
 2. The device is perceived as a lamp. Still need to think if that is the impression I want.
 
 3. Blank buttons were not clear at all. Only one tester was curious enough to explore them without any explanation. Buttons with icons made more sense. Even though the icons were not always very understandable, they at least sparked some interest. Buttons with text are probably too in the face, but at the same time still not super clear. Will probably keep buttons with icons, but will reconsider the icons.
 
-4. An interesting insight is that the first three buttons (outline, shapes, shading) are associated together. Some people saw them as different layers of one image. Meanwhile, the random button is a very fun option, but is a bit apart. So, the idea now is to group the three first buttons together and distinguish "random" from them (by color or shape and distance).
+4. An interesting insight is that the first three buttons (outline, shapes, shading) are associated together. Some people saw them as different layers of one image. Meanwhile, the random button is a very fun option, but is a bit apart. So, the idea now is to group the three first buttons together and distinguish "random" from them (by color or shape and distance, like a golden button with a dimond on top, and encourages people to press it first). Also, need to switch positions of "outline" and "shapes" because it is more logical the other way round if we consider the drawing process (shapes -> outline -> shading).
 
 5. When clicking on the random button again, people expect a new random image.
 
-6. What if you put two objects?
+6. What if you put two objects? Does the assistant mix them?
 
-TBC
+7. "Shading" -> "volume"? "details"?
 
 For the head part can use plastic instead of 3D printing.
 
