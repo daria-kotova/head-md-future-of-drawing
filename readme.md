@@ -8,7 +8,7 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 ## 2023-12-23
 
-Jasmine got me a 3D
+Jasmine got me a 3D printed boat as another input object for my project. ![boat](/process/2023-12-23/IMG_5918.JPG) Now I am thinking that I should 3D print all of my input objects, so that they are all in one style. Deffinitely one of the objects will be a snail (DAH).
 
 ## 2023-12-21
 
