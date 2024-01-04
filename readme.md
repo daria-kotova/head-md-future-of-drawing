@@ -6,6 +6,20 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 # DevLog
 
+## 2024-01-04
+
+Chose 5 more input objects (to be limited to 4). Unfortunately no snail :( Ideally, I would have modelled them myself, but seems like a waste of time with my current level of 3D modelling.
+
+- sheep https://www.thingiverse.com/thing:182273/files
+- plane https://www.thingiverse.com/thing:182252/files
+- penguin https://www.thingiverse.com/thing:182246/files
+- bear https://www.thingiverse.com/thing:182072/files
+- frog https://www.thingiverse.com/thing:18479/files
+
+
+
+
+
 ## 2023-12-23
 
 Jasmine got me a 3D printed boat as another input object for my project. ![boat](/process/2023-12-23/IMG_5918.JPG) Now I am thinking that I should 3D print all of my input objects, so that they are all in one style. Deffinitely one of the objects will be a snail (DAH).
