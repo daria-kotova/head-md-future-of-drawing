@@ -6,6 +6,12 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 # DevLog
 
+## 2024-01--15
+
+After some struggling with Processing I decided to code in Python, even though I had never done it before.
+
+Tutorial for setting up RFID RC522 https://pimylifeup.com/raspberry-pi-rfid-rc522/ 
+
 ## 2024-01-04
 
 Chose 5 more input objects (to be limited to 4). Unfortunately no snail :( Ideally, I would have modelled them myself, but seems like a waste of time with my current level of 3D modelling.
