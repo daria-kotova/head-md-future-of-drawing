@@ -6,11 +6,15 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 # DevLog
 
-## 2024-01--15
+## 2024-01-15
 
 After some struggling with Processing I decided to code in Python, even though I had never done it before.
 
 Tutorial for setting up RFID RC522 https://pimylifeup.com/raspberry-pi-rfid-rc522/ 
+
+## 2024-01-12
+
+My Bible for the next several days ![scheme](/electronics/GPIO-Pinout-Diagram-2.png)
 
 ## 2024-01-04
 
