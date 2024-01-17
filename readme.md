@@ -10,7 +10,7 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 ![exp](/process/2024-01-17/IMG_6324.JPG)
 
-Murphy's law continues to work, the code that worked last night and this morning did not work during my demo. Had to show images on my iPad, again. Quite dissapointed with this, but at least I know it works and I am satisfied with thw final form. Achievemebt unlocked. Product designed.
+Murphy's law continues to work, the code that worked last night and this morning did not work during my demo. Had to show images on my iPad, again. Quite dissapointed with this, but at least I know it works and I am satisfied with thes final form. Achievemebt unlocked. Product designed.
 
 ## 2024-01-16
 
@@ -26,7 +26,9 @@ After some struggling with Processing I decided to code in Python, even though I
 
 Tutorial for setting up RFID RC522 https://pimylifeup.com/raspberry-pi-rfid-rc522/ 
 
-Stayed up till 1am and managed to write  scripts for reading NFC tags and displaying a related image, as well as ditacting the state of buttons.
+Stayed up till 1am and managed to write  scripts for reading NFC tags and displaying a related image, as well as ditacting the state of buttons. Chat GPT is trully useless in some cases, it just repeats itself and does not fix my issues.
+
+Prepared my final [pdf](/presentations/240117_HEAD-MD1_Caran-d-Ache_Daria-Kotova-Snailed-it.pdf).
 
 ## 2024-01-14
 
