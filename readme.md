@@ -10,7 +10,7 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 ![exp](/process/2024-01-17/IMG_6324.JPG)
 
-Murphy's law continues to work, the code that worked last night and this morning did not work during my demo. Had to show images on my iPad, again. Quite dissapointed with this, but at least I know it works and I am satisfied with thes final form. Achievemebt unlocked. Product designed.
+Murphy's law continues to work, the code that worked last night and this morning did not work during my demo. Had to show images on my iPad, again. Quite dissapointed with this, but at least I know it works and I am satisfied with the final form. Achievemebt unlocked. Product designed.
 
 ## 2024-01-16
 
@@ -60,7 +60,7 @@ My Bible for the next several days ![scheme](/electronics/GPIO-Pinout-Diagram-2.
 
 ## 2024-01-11
 
-Got laser and zonde (?) cuts. Finally finished my battlse with the 3D base. 
+Got laser and zonde (?) cuts. Finally finished my battle with the 3D base. 
 
 ## 2024-01-10
 
@@ -68,15 +68,15 @@ Figuring out the electronics and 3D base. Prepared documents for laser cutting (
 
 ## 2024-01-09
 
-Went to metal workshop. We managed to finish in 3 hours. When I say we, I mean Xavier, I was just giving instructions and following him everywhere lol. Satisfied with the result. ![metal](/process/2024-01-09/IMG_6136.JPG) However, at the end we realized that the tubes are to narrow and the projector power cable does not pass. Will have to cut it and get a new prise that can be opened. Ooops.s
+Went to metal workshop. We managed to finish in 3 hours. When I say we, I mean Xavier, I was just giving instructions and following him everywhere lol. Satisfied with the result. ![metal](/process/2024-01-09/IMG_6136.JPG) However, at the end we realized that the tubes are to narrow and the projector power cable does not pass. Will have to cut it and get a new prise that can be opened. Ooops.
 
 ## 2024-01-08
 
-Trying to finalize my 3D model, because tomorrow I will go to the metal workshop. Still struggling a lot with the 3D base, because I failt to imagibe how everything will be positioned.
+Trying to finalize my 3D model because tomorrow I will go to the metal workshop. Still struggling a lot with the 3D base, because I fail to imagibe how everything will be positioned.
 
 ## 2024-01-10
 
-Finally figured out my electronics situation. Gonna solder buttons. ![solder](/process/2024-01-10/IMG_6150.JPG)
+Finally figured out my electronics situation (how every part connects to each other). Gonna solder buttons. ![solder](/process/2024-01-10/IMG_6150.JPG)
 
 ## 2024-01-04
 
@@ -87,10 +87,6 @@ Chose 5 more input objects (to be limited to 4). Unfortunately no snail :( Ideal
 - penguin https://www.thingiverse.com/thing:182246/files
 - bear https://www.thingiverse.com/thing:182072/files
 - frog https://www.thingiverse.com/thing:18479/files
-
-
-
-
 
 ## 2023-12-23
 
