@@ -50,7 +50,7 @@ Wanted to focus on my code, buuut... I left my micro HDMI cable at school..
 
 Got my two big 3D printed top parts and some parts for fixations. ![parts](/process/2024-01-12/IMG_6211.JPG) ![parts3](/process/2024-01-12/IMG_6235.JPG) ![parts3](/process/2024-01-12/IMG_6236.JPG) They took 11 and 14 hours to print. The 3D base is going to take 18 hours to print lol. The 3D printing industry needs to work more on their speed :/
 
-The technique for connecting parts, that Fred told me about, when you make holes in both parts and then print connecting sticks separately, did not work. I completely mismatched the measurings, had to reprint the sticks twice myself
+The technique for connecting parts, that Fred told me about, when you make holes in both parts and then print connecting sticks separately, did not work. I completely mismatched the measurings, had to reprint the sticks twice myself ![3d](/process/2024-01-12/IMG_6232.JPG)
 
 Soldered my buttons. I think I am getting a hang of it. ![solder2](/process/2024-01-12/IMG_6233.JPG) ![solder2](/process/2024-01-12/IMG_6234.JPG)
 
@@ -60,7 +60,7 @@ My Bible for the next several days ![scheme](/electronics/GPIO-Pinout-Diagram-2.
 
 ## 2024-01-11
 
-Got laser and zonde (?) cuts. Finally finished my battles with the 3D base. 
+Got laser and zonde (?) cuts. Finally finished my battlse with the 3D base. 
 
 ## 2024-01-10
 
