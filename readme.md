@@ -94,7 +94,7 @@ Jasmine got me a 3D printed boat as another input object for my project. ![boat]
 
 ## 2023-12-21
 
-Improved shape of the shell. ![shell_0](/form/23-12-21/Screenshot%202023-12-21%20at%2009.15.50.png) ![shell](/form/23-12-21/Screenshot%202023-12-21%20at%2009.16.02.png) Now that I have the base of my model, we were able to discuss with Laure how I can fix my parts together. There will be a sort of a clamp to attach the shell to the leg ![clamp](/process/2023-12-21/IMG_5889.JPG) The shell itself will be printed in two parts and fixed from the inside. We also discussed how I should model the buttons ![buttons](/process/2023-12-21/IMG_5888.JPG)
+Improved shape of the shell. ![shell](/form/2023-12-21/Screenshot%202023-12-21%20at%2009.15.50.png) Now that I have the base of my model, we were able to discuss with Laure how I can fix my parts together. There will be a sort of a clamp to attach the shell to the leg ![clamp](/process/2023-12-21/IMG_5889.JPG) The shell itself will be printed in two parts and fixed from the inside. We also discussed how I should model the buttons ![buttons](/process/2023-12-21/IMG_5888.JPG)
 
 TO REMEMBER:
 - make holes for cables in the leg and in the base
@@ -109,7 +109,7 @@ Made an appointment at atelier de métal (Jan 9 and Jan 10 14:00-17:00). Also, j
 
 ## 2023-12-20
 
-Finally figured out how to model a project and a shell around it. ![model](/form/23-12-20/Screenshot%202023-12-20%20at%2009.31.41.png)
+Finally figured out how to model a project and a shell around it. ![model](/form/2023-12-20/Screenshot%202023-12-20%20at%2009.31.41.png)
 
 The "random" button can be in a swirl form, to make reference to the name of the object.
 
