@@ -6,15 +6,75 @@ Below is the devlog with my day-to-day progress. Enjoy.
 
 # DevLog
 
+## 2024-01-17
+
+![exp](/process/2024-01-17/IMG_6324.JPG)
+
+Murphy's law continues to work, the code that worked last night and this morning did not work during my demo. Had to show images on my iPad, again. Quite dissapointed with this, but at least I know it works and I am satisfied with thw final form. Achievemebt unlocked. Product designed.
+
+## 2024-01-16
+
+Spent 6,5 hours figuring out my [code](/electronics/code/) with Vitas. And it worked! For now only two buttons are functional (outline and shading) and the image does not disappear when you remove an NFC tag. But still. Happy. 
+
+However, I had not expected it to take sooo much time. So when I came back to the main building to get all my stuff, it was already locked. Had a mini panick attack. But crisis was averted, Lauren saved me.
+
+Painted my parts in white at home. ![paint](/process/2024-01-16/3FE33738-2F6E-4EF5-B2AD-DD708CD67531.JPG)
+
 ## 2024-01-15
 
 After some struggling with Processing I decided to code in Python, even though I had never done it before.
 
 Tutorial for setting up RFID RC522 https://pimylifeup.com/raspberry-pi-rfid-rc522/ 
 
+Stayed up till 1am and managed to write  scripts for reading NFC tags and displaying a related image, as well as ditacting the state of buttons.
+
+## 2024-01-14
+
+Spent half of the day looking for a micro HDMI cable in the shops around home. It was quite a challenge, taking that it is Sunday. 
+
+Prepared my Fritzing schematic ![schematic](/electronics/breadboard-with-projector.jpg) ![shematic-1](/electronics/schematic.jpg)
+
+Well.. Cellotape does not really secure the SD card slot in place, the Pi keeps crushing. Will have to get another Pi from school.
+
+## 2024-01-13
+
+Went to school to get my 3D base for electronics ![base](/process/2024-01-13/IMG_6259.JPG) Spent 2-3 hours cleaning it from all the supports, only to find out that I had made a mistake in modelling. Even two. I forgot to consider how I am going to put the strip board with buttons inside. Also, need some extra space for cables. Had to fix it with a drill. ![fix](/process/2024-01-13/IMG_6264.JPG) But now everything seems to fit inside ![fix](/process/2024-01-13/IMG_6267.JPG)
+
+I somehow managed to broke the slot for SD card on my raspberry pi... ![slot](/process/2024-01-13/IMG_6262.JPG)
+
+Wanted to focus on my code, buuut... I left my micro HDMI cable at school..
+
 ## 2024-01-12
 
+Got my two big 3D printed top parts and some parts for fixations. ![parts](/process/2024-01-12/IMG_6211.JPG) ![parts3](/process/2024-01-12/IMG_6235.JPG) ![parts3](/process/2024-01-12/IMG_6236.JPG) They took 11 and 14 hours to print. The 3D base is going to take 18 hours to print lol. The 3D printing industry needs to work more on their speed :/
+
+The technique for connecting parts, that Fred told me about, when you make holes in both parts and then print connecting sticks separately, did not work. I completely mismatched the measurings, had to reprint the sticks twice myself
+
+Soldered my buttons. I think I am getting a hang of it. ![solder2](/process/2024-01-12/IMG_6233.JPG) ![solder2](/process/2024-01-12/IMG_6234.JPG)
+
+Overall, the object is starting to take its from ![form](/process/2024-01-12/IMG_6238.JPG)
+
 My Bible for the next several days ![scheme](/electronics/GPIO-Pinout-Diagram-2.png)
+
+## 2024-01-11
+
+Got laser and zonde (?) cuts. Finally finished my battles with the 3D base. 
+
+## 2024-01-10
+
+Figuring out the electronics and 3D base. Prepared documents for laser cutting (fixation disks, plate, diffusor).
+
+## 2024-01-09
+
+Went to metal workshop. We managed to finish in 3 hours. When I say we, I mean Xavier, I was just giving instructions and following him everywhere lol. Satisfied with the result. ![metal](/process/2024-01-09/IMG_6136.JPG) However, at the end we realized that the tubes are to narrow and the projector power cable does not pass. Will have to cut it and get a new prise that can be opened. Ooops.s
+
+## 2024-01-08
+
+Trying to finalize my 3D model, because tomorrow I will go to the metal workshop. Still struggling a lot with the 3D base, because I failt to imagibe how everything will be positioned.
+
+## 2024-01-10
+
+Finally figured out my electronics situation. Gonna solder buttons. ![solder](/process/2024-01-10/IMG_6150.JPG)
 
 ## 2024-01-04
 
